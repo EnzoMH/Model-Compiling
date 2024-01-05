@@ -2,5 +2,6 @@
 1. CNN
 2. MobilenetV2
 3. Resnet
-Conclusion
-1.
+- Conclusion
+- 1.CNN Model - Appropriate Model for dataset
+- 2.Mobilenet V2 - 
