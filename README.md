@@ -13,7 +13,7 @@
 - https://www.notion.so/Mobilenet-V2-Code-6475ec16fa4745bb8a6f095277005cb3
 - Report of Resnet
 - https://www.notion.so/Resnet-6a2d8c67ff8143f889140c81403490a1
-# Report of GeTi Project
+# Report of OpenVino Project
 - Report of CNN
 - 
 - Report of MobilenetV2
