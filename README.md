@@ -19,4 +19,4 @@
 - Report of MobilenetV2
 - 
 - Report of Resnet
-- 
+- https://www.notion.so/Resnet50-Code-d243ea17eccb434f84a8fb1a66de071c
