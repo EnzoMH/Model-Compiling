@@ -17,6 +17,6 @@
 - Report of CNN
 - 
 - Report of MobilenetV2
-- 
+- https://www.notion.so/MobileNet-V2-1943a6fb98a14eb7b057e59d2c12e80f
 - Report of Resnet
 - https://www.notion.so/Resnet50-Code-d243ea17eccb434f84a8fb1a66de071c
