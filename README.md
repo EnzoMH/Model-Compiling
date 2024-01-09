@@ -1,11 +1,14 @@
 # Intel - TeamProject AI Model Code Improvement Process
-1. CNN
-2. MobilenetV2
-3. Resnet
-- Conclusion
-- 1.CNN Model - Appropriate Model for dataset
-- 2.Mobilenet V2 - Inappropriate Model for dataset
-- 3.Resnet - Appropriate but network was interrupted
+1. ComputerVision AI Model
+1-1. CNN
+1-2. MobilenetV2
+1-3. Resnet
+2. Natural Language Processing
+2-1. RNN
+2-2. GRU
+2-3. LSTM
+2-4. BERT
+
 # Report of GeTi Project
 - Report of CNN
 - https://www.notion.so/CNN-Code-1219d2bea0be474eb91bb031411c853b
@@ -19,4 +22,11 @@
 - Report of MobilenetV2
 - https://www.notion.so/MobileNet-V2-1943a6fb98a14eb7b057e59d2c12e80f
 - Report of Resnet
+- https://www.notion.so/Resnet50-Code-d243ea17eccb434f84a8fb1a66de071c
+# Report of OpenVino Project
+- Report of GRU
+- 
+- Report of LSTM
+- https://www.notion.so/MobileNet-V2-1943a6fb98a14eb7b057e59d2c12e80f
+- Report of BERT
 - https://www.notion.so/Resnet50-Code-d243ea17eccb434f84a8fb1a66de071c
