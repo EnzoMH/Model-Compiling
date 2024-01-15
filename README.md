@@ -4,10 +4,9 @@
   - 1-2. MobilenetV2
   - 1-3. Resnet
 - 2. Natural Language Processing
-  - 2-1. RNN
-  - 2-2. GRU
-  - 2-3. LSTM
-  - 2-4. BERT
+  - 2-1. GRU
+  - 2-2. LSTM
+  - 2-3. BERT
 
 # Report of GeTi Project
 - Report of CNN
