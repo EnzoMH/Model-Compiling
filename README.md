@@ -17,8 +17,6 @@
 - Report of Resnet
 - https://www.notion.so/Resnet-6a2d8c67ff8143f889140c81403490a1
 # Report of OpenVino Project
-- Report of CNN
-- 
 - Report of MobilenetV2
 - https://www.notion.so/MobileNet-V2-1943a6fb98a14eb7b057e59d2c12e80f
 - Report of Resnet
