@@ -25,8 +25,8 @@
 - https://www.notion.so/Resnet50-Code-d243ea17eccb434f84a8fb1a66de071c
 # Report of NLP Project
 - Report of GRU
-- 
+- https://www.notion.so/GRU-c7ad9348ce4b41fcbe7473a8cd92bd66
 - Report of LSTM
-- 
+- https://www.notion.so/LSTM-a465ecffc5ca4fbda26f7ccd4dcf2705
 - Report of BERT
-- 
+- https://www.notion.so/BERT-7d9978109b5b493c9372fbd53ec09a6f
